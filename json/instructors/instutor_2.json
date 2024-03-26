@@ -1,0 +1,32 @@
+{
+    "_id": "645d847c2ee6fd00082068f4",
+    "flIsBloqueado": false,
+    "cdCanal": "whatsapp",
+    "cdIdioma": "pt",
+    "dhSelecaoIntent": null,
+    "dhCadastro": "2023-09-12T00:32:44.091+0000",
+    "flIsGroup": true,
+    "flOptIn": false,
+    "flInstanciaBloqueada": false,
+    "flCasoUrgente": false,
+    "flIsContatoPonte": false,
+    "nrWhatsApp": "5511998765432",
+    "nmCompleto": "Paulo Silva",
+    "dhUltimaMensagemUsuario": "2024-01-20T14:45:00.000+0000",
+    "txMsgPendente": null,
+    "lista_estudantes": [
+        "645d847c2ee6fd00082069f8",
+        "645d847c2ee6fd05897469f9",
+        "645d847c2ee8721df082069f"
+    ],
+    "flDesistiuEstudo": true,
+    "flEstudante": true,
+    "cdReligiao": "adventista",
+    "cdSexo": "M",
+    "nmAlias": "Paul",
+    "qtIdade": 37,
+    "tpComoConheceu": "amigo",
+    "cdPais": "brasil",
+    "flPaisRevisado": true,
+    "flIsEstudanteAtivo": false
+}

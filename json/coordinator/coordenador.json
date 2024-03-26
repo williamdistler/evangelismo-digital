@@ -1,0 +1,32 @@
+{
+    "_id" : "645d847c2ee6fd00082069kl",
+    "flIsBloqueado" : false,
+    "cdCanal" : "whatsapp",
+    "cdIdioma" : "pt",
+    "dhSelecaoIntent" : null,
+    "dhCadastro" : "2023-05-12T00:12:44.091+0000",
+    "flIsGroup" : true,
+    "flOptIn" : false,
+    "flInstanciaBloqueada" : false,
+    "flCasoUrgente" : false,
+    "flIsContatoPonte" : false,
+    "nrWhatsApp" : "5512981596565",
+    "nmCompleto" : "NATANAEL CASTRO",
+    "dhUltimaMensagemUsuario" : "2024-03-03T00:03:02.371+0000",
+    "txMsgPendente" : null,
+    "instrutores_monitorados" : [
+        "645d847c2ee6fd00082068f5",
+        "645d847c2ee6fd00082068f4",
+        "645d847c2ee6fd0008206b06"
+    ],
+    "flDesistiuEstudo" : true,
+    "flEstudante" : true,
+    "cdReligiao" : "adventista",
+    "cdSexo" : "M",
+    "nmAlias" : "Natanael",
+    "qtIdade" : 34,
+    "tpComoConheceu" : "amigo",
+    "cdPais" : "brasil",
+    "flPaisRevisado" : true,
+    "flIsEstudanteAtivo" : false
+}

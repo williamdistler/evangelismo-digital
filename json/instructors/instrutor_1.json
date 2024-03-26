@@ -1,0 +1,33 @@
+{
+    "_id": "645d847c2ee6fd00082068f5",
+    "flIsBloqueado": false,
+    "cdCanal": "whatsapp",
+    "cdIdioma": "pt",
+    "dhSelecaoIntent": null,
+    "dhCadastro": "2023-05-12T00:22:44.091+0000",
+    "flIsGroup": true,
+    "flOptIn": false,
+    "flInstanciaBloqueada": false,
+    "flCasoUrgente": false,
+    "flIsContatoPonte": false,
+    "nrWhatsApp": "5512981596565",
+    "nmCompleto": "Maria Oliveira",
+    "dhUltimaMensagemUsuario": "2024-02-15T08:30:00.000+0000",
+    "txMsgPendente": null,
+    "lista_estudantes": [
+        "645d847c2ee6fd00082069f6",
+        "645d847c2ee6fd00082069f7",
+        "645d847c2ee6fd00082069f9",
+        "645d848798754ui0082069f5"
+    ],
+    "flDesistiuEstudo": true,
+    "flEstudante": true,
+    "cdReligiao": "adventista",
+    "cdSexo": "F",
+    "nmAlias": "Marie",
+    "qtIdade": 29,
+    "tpComoConheceu": "amigo",
+    "cdPais": "brasil",
+    "flPaisRevisado": true,
+    "flIsEstudanteAtivo": false
+}

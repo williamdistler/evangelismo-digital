@@ -1,0 +1,32 @@
+{
+    "_id": "645d847c2ee6fd0008206b06",
+    "flIsBloqueado": false,
+    "cdCanal": "whatsapp",
+    "cdIdioma": "pt",
+    "dhSelecaoIntent": null,
+    "dhCadastro": "2023-07-12T00:02:44.091+0000",
+    "flIsGroup": true,
+    "flOptIn": false,
+    "flInstanciaBloqueada": false,
+    "flCasoUrgente": false,
+    "flIsContatoPonte": false,
+    "nrWhatsApp": "5512345678901",
+    "nmCompleto": "Ana Souza",
+    "dhUltimaMensagemUsuario": "2023-02-29T20:00:00.000+0000",
+    "txMsgPendente": null,
+    "lista_estudantes": [
+        "645d847c2ee6fd00082069fa",
+        "645d847c2ee6fd00082069fb",
+        "645d847c28754ui0082069fb"
+    ],
+    "flDesistiuEstudo": true,
+    "flEstudante": true,
+    "cdReligiao": "adventista",
+    "cdSexo": "F",
+    "nmAlias": "Ana",
+    "qtIdade": 31,
+    "tpComoConheceu": "amigo",
+    "cdPais": "brasil",
+    "flPaisRevisado": true,
+    "flIsEstudanteAtivo": false
+}

@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-size: 100%;
+  list-style-type: none;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  height: 100%;
+  color: #333;
+  background: #e7e2e2;
+}
+
+header {
+  background-color: white;
+  width: 100%;
+  padding: 10px;
+  height: 60px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+main {
+  padding: 10px;
+  height: calc(100% - 120px);
+}
+
+.head-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.table-section {
+  display: grid;
+  grid-template-columns: 10% 30% 15% 15% 15% 10%;
+  align-items: center;
+  justify-items: center;
+  border-top: 1px solid grey;
+  padding: 10px; 
+}
+
+.table {
+  margin-top: 30px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;  
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.instructor-functions {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.instructor-functions button {
+  padding: 1px;
+  border-radius: 5px;
+  border: none;
+  width: 30px;
+  height: 30px;
+}
+
+img {
+  width: 15px;
+  height: 15px;
+}
+
+.list-button {
+  background-color: rgb(86, 255, 247);
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: white;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  bottom: 0;
+  height: 60px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  padding-inline: 10px;
+}
+
+footer #cr {
+  padding-left: 15%;
+}
+
+#app {
+  height: 100%;
+}
