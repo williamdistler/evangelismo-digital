@@ -46,13 +46,19 @@
             <h1>Esperança - Página de Acompanhamento de Alunos</h1>
         </header>
         <main>
-          <h3>Ordenar por:</h3>
-          <select name="orderBy" id="orderBy">
-            <option value="">Selecione uma opção</option>
-            <option value="active">Ativos</option>
-            <option value="inactive">Inativos</option>
-            <option value="alphabetical">Ordem Alfabética</option>
-          </select>
+          <div class='filter-div'>
+            <h3>Ordenar por:</h3>
+            <select name="orderBy" id="orderBy">
+              <option value="">Selecione uma opção</option>
+              <option value="alphabetical">Ordem Alfabética</option>
+            </select>
+            <h3>Filtrar por:</h3>
+            <select name="filterBy" id="filterBy">
+              <option value="">Selecione uma opção</option>
+              <option value="alphabetical">Ativos</option>
+              <option value="alphabetical">Inativos</option>
+            </select>
+          </div>
           <div class="table">
             <div class="head-section">
               <h2>

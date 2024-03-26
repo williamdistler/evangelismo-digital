@@ -41,6 +41,11 @@ main {
   padding: 10px;
 }
 
+.filter-div {
+  display: flex;
+  gap: 5px;
+}
+
 .table-section {
   display: grid;
   grid-template-columns: 10% 80% 10%;
